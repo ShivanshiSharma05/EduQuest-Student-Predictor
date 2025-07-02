@@ -3,6 +3,8 @@
 This repository contains internship projects built using Python and machine learning techniques. These projects focus on real-world problems such as student performance prediction and product categorization using text classification.
 
 ---
+## YBI Foundation 
+www.ybifoundation.com
 
 ## 📁 Projects
 
@@ -39,8 +41,6 @@ This repository contains internship projects built using Python and machine lear
 - 📊 **Output**: Multi-class label prediction with training and validation accuracy
 
 ---
-##
-@Ybi Foundation 
 
 ## 🛠 Installation
 
