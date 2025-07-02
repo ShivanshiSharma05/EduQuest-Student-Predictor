@@ -1,49 +1,55 @@
 # EduQuest-Student-Predictor
-# 🚀 Machine Learning Mini Projects
+# Internship Projects – Shivanshi Sharma
 
-This repository contains two beginner-level machine learning projects developed using Python and scikit-learn.
-
----
-
-## 📘 Project 1: Student Performance Predictor (EduQuest Coaching)
-
-This project predicts the **final exam scores of students** based on features such as:
-- Gender
-- Age
-- Parental Education Level
-- Internet Access
-- Tutor Support
-- Extracurricular Involvement
-
-### 🔧 Tools & Technologies
-- Python, Pandas
-- Scikit-learn (Linear Regression)
-- Jupyter Notebook
-
-### 📊 Evaluation
-- Used **Mean Absolute Percentage Error (MAPE)** to evaluate the model.
+This repository contains internship projects built using Python and machine learning techniques. These projects focus on real-world problems such as student performance prediction and product categorization using text classification.
 
 ---
 
-## 🛍️ Project 2: Product Category Classifier (ShopEase E-Commerce)
+## 📁 Projects
 
-This project classifies product descriptions into their respective **product categories** using text classification.
+### 1. 🎓 Student Performance Predictor
 
-### 🔧 Tools & Technologies
-- Python, Pandas
-- TF-IDF Vectorization
-- Logistic Regression (Scikit-learn)
-
-### 📊 Evaluation
-- Measured **Accuracy Score** of predictions.
+- 📌 **Description**: This project uses a machine learning model to predict student academic performance based on various features like study hours, parental education, test preparation, etc.
+- 📂 **Dataset**: Student performance dataset (custom or UCI-based)
+- 🛠 **Technologies Used**:
+  - Python
+  - Scikit-learn
+  - Pandas
+  - Seaborn / Matplotlib
+- 💡 **Key Steps**:
+  - Data preprocessing (handling categorical features and missing values)
+  - Visualization of features vs performance
+  - Model training (e.g., Linear Regression, Random Forest)
+- 📊 **Output**: Predicted scores or grades based on student attributes
 
 ---
 
-### 📁 Folder Structure
-📦project-root/
-┣ 📜 Student_Performance_Predictor.ipynb
-┣ 📜 Product_Category_Classifier.ipynb
-┗ 📄 README.md
+### 2. 🛍️ Product Categorization using Machine Learning
+
+- 📌 **Description**: A classification model that categorizes product titles into predefined classes using text data.
+- 📂 **Dataset**: Product listing dataset (custom or scraped)
+- 🛠 **Technologies Used**:
+  - Python
+  - Scikit-learn
+  - TensorFlow / Keras
+  - TF-IDF for text vectorization
+- 💡 **Key Steps**:
+  - Text preprocessing: tokenization, lowercasing, punctuation removal
+  - Feature extraction using TF-IDF
+  - Model building with a neural network
+- 📊 **Output**: Multi-class label prediction with training and validation accuracy
+
+---
+
+## 🛠 Installation
+
+Install the required libraries before running the code:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
+
+
+
 
 
 
