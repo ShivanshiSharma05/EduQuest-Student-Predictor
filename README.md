@@ -1,5 +1,4 @@
-# EduQuest-Student-Predictor
-# Internship Projects – Shivanshi Sharma
+# Internship Projects 
 
 This repository contains internship projects built using Python and machine learning techniques. These projects focus on real-world problems such as student performance prediction and product categorization using text classification.
 
