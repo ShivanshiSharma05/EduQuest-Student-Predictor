@@ -39,6 +39,8 @@ This repository contains internship projects built using Python and machine lear
 - 📊 **Output**: Multi-class label prediction with training and validation accuracy
 
 ---
+##
+@Ybi Foundation 
 
 ## 🛠 Installation
 
